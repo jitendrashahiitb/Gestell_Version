@@ -1,4 +1,4 @@
-treemapindia
+treemapindia Gestell
 ============
 
 This is a repository for mobile app called treemapindia
